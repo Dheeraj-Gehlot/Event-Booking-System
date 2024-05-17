@@ -7,14 +7,14 @@ Event-Booking-System
 
 // API LIST
 # create User 
-user-register
+user-register,
 user-login
 
 # event module
-event-lis
-event-create
+event-lis,
+event-create,
 event by ID
 
 # booking tickits 
-book-tickit
+book-tickit,
 my-bookings
